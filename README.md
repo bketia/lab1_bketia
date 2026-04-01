@@ -13,4 +13,4 @@ The shell script archives the old grades.csv file with a timestamp, creates a fr
 ## How to Run the Python Program
 Run:
 ```bash
-python3 grade-evaluator.py
+py grade-evaluator.py
